@@ -1,6 +1,6 @@
 Title - "Diffusion-guided Temporal Feature Alignment with Vision Transformer-based Semantic Learning for Deepfake Video Detection". <br />
 Authors - Saptarshi Pani, Second Author, Dmitrii Kaplun, Ram Sarkar. <br />
-Conference - TBD. <br />
+Conference - 11th International Conference on Computer Vision & Image Processing. <br />
 
 Code Files :- <br />
 To be updated on acceptance. <br />
