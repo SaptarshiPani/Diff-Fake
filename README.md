@@ -19,3 +19,9 @@ Result Table :- <br />
 
 Result Visualizations :- <br />
 <img width="507" height="347" alt="Image" src="https://github.com/user-attachments/assets/8148a96d-c4ba-4c1c-b701-c5501e0974c8" />
+<br /><br />
+
+Training time on FF++ = 3hr 36min <br />
+Training time on CeDF = 4hr 50min <br />
+Testing time on FF++ = 12min <br />
+Training time on CeDF = 17min <br />
