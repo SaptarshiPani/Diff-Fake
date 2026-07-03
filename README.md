@@ -3,7 +3,7 @@ Authors - Saptarshi Pani, Second Author, Dmitrii Kaplun, Ram Sarkar. <br />
 Conference - 11th International Conference on Computer Vision & Image Processing. <br />
 
 Code Files :- <br />
-To be updated on acceptance. <br />
+diff-deepfake.ipynb -> Code implementation of the Proposed model used in the study. <br />
 
 Architecture :- <br />
 <img width="746" height="166" alt="Image" src="https://github.com/user-attachments/assets/426ada59-86b6-4307-8111-937fe3b16cb5" />
