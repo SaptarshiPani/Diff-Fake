@@ -3,10 +3,12 @@ Authors - Saptarshi Pani, Irina Shpakovskaya, Dmitrii Kaplun, Ram Sarkar. <br />
 Conference - 11th International Conference on Computer Vision & Image Processing. <br />
 
 Code Files :- <br />
-heaffnet.ipynb -> Code implementation of the Proposed model used in the study. <br />
+diff-deepfake.ipynb -> Code implementation of the Proposed model used in the study. <br />
 
 Architecture :- <br />
-<img width="878" height="515" alt="Image" src="https://github.com/user-attachments/assets/fd0d7fa4-b102-4c54-867a-356263766192" />
+<img width="746" height="166" alt="Image" src="https://github.com/user-attachments/assets/426ada59-86b6-4307-8111-937fe3b16cb5" />
+<br />
+<img width="578" height="562" alt="Image" src="https://github.com/user-attachments/assets/9fa1ff8b-0634-4bbd-96b2-faeb81d28e56" />
 <br /><br />
 
 Result Table :- <br />
